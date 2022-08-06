@@ -1,0 +1,7 @@
+# ntf-website
+NFT website build with 
+HTML
+TAILWINDCSS
+JAVASCRIPT 
+ALPINE JS 
+SWIPE JS API
